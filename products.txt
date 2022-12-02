@@ -1,0 +1,63 @@
+Hohes multivitamin 100%,1l,357,gyumolcsle,100
+Cappy alma 100%,0.33l,222,gyumolcsle,98
+Cappy multivitamin 50%,0.33l,222,gyumolcsle,96
+Cappy oszibarack-dinnye 12%,0.5l,244,gyumolcsle,98
+Cappy narancs 100%,1l,399,gyumolcsle,89
+Garden Fruit Alma,0.5l,285,gyumolcsle,96
+TunaSalad,175g,975,konzerv,99
+Pepsi,2.25l,336,udito,100
+Coca-Cola,2.25l,399,udito,95
+TopJ oy,0.33l,140,udito,100
+Hoch Wald EisKaffe,0.5l,215,instant_kave,100
+Tchibo,0.25kg,519,orolt_kave,100
+Nescafe,0.2kg,1520,instant_kave,100
+Omnia,0.25kg,745,orolt_kave,100
+Galas zosz,0.7l,767,szosz,100
+Univer mustar,0.44kg,369,szosz,100
+Univer majonez,0.42kg,519,szosz,100
+Univer ketchup,0.47kg,429,szosz,100
+Bonduelle bebirepa,0.4kg,339,konzerv,100
+Bonduelle lecse,0.4kg,309,konzerv,100
+Bonduelle csemegeuborka,0.55kg,685,konzerv,100
+Bonduelle morzsolt csemegekukorica,0.340kg,305,konzerv,100
+Bonduelle edes csemegekukorica,0.440kg,420,konzerv,100
+Bonduelle zoldborso,0.8kg,525,konzerv,100
+Bonduelle zoldborso,0.2kg,189,konzerv,100
+Lay's Stix,70g,223,chips,100
+Lay's fromage,70g,223,chips,100
+Lay's ujhagymas,70g,223,chips,100
+Lay's pikans-paprika,70g,223,chips,100
+Lay's sos,70g,223,chips,100
+Lay's sajtos,70g,223,chips,100
+Lay's Maxs alsa,70g,223,chips,100
+Lay's  Max sajtos-hagymas,70g,223,chips,100
+Lay's Max Bacon,70g,223,chips,100
+Lay's Strong Chilli&Lime,70g,223,chips,100
+Lay's Strong Csiposc sirkeszarnyak,70g,223,chips,100
+Lay's Strong Cheese&jalapeno,70g,223,chips,100
+Lay's Strong Barbecue oldalas,70g,223,chips,100
+Cheetos mogyoros,30g,105,chips,100
+Cheetos pizzerini,30g,105,chips,100
+Cheetos sajtos,30g,105,chips,100
+Cheetos spirals,43g,105,chips,100
+Cheetos ketchup,30g,105,chips,100
+Tuc snack hagymas-tejfolos,100g,209,ropogtatnivalo,100
+Tuc snack sos,100g,209,ropogtatnivalo,100
+Tuc snack sonkas,100g,209,ropogtatnivalo,100
+Tuc snack sajtos,100g,209,ropogtatnivalo,100
+Dormi csokikremes,30g,79,keksz-napolyi,200
+Dormi tejkremes,30g,79,keksz-napolyi,200
+Belvita joreggelt erdeigyumolcso,50g,89,keksz-napolyi,200
+Belvita joreggelt mezes-mogyoros,50g,89,keksz-napolyi,200
+Belvita joreggelt kakaos,50g,89,keksz-napolyi,200
+Belvita joreggelt Soy csokidarabos,50g,119,keksz-napolyi,200
+Belvita joreggelt Soy csokis-mogyoro,50g,119,keksz-napolyi,200
+Belvita joreggelt Soy eper,50g,119,keksz-napolyi,200
+Belvita joreggelt Soy afonya,50g,119,keksz-napolyi,200
+Gyoripilota piskotataller malnas,149g,292,keksz-napolyi,100
+Gyoripilota piskotataller sargabarackos,149g,292,keksz-napolyi,100
+Gyori pilota piskotataller meggyes,149g,292,keksz-napolyi,100
+Gyori pilota piskotataller  epres,149g,292,keksz-napolyi,100
+Gyori edes kakaos,180g,195,keksz-napolyi,100
+Gyori edes kokuszos,180g,195,keksz-napolyi,100
+Gyori edes eredeti,180g,195,keksz-napolyi,100
